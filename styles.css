@@ -24,7 +24,9 @@ h2 span {
 ul {
     list-style-type: none;
 }
-
+p{
+    font-size:14px;
+}
 /* Navbar Styles */
 * {
   margin: 0;
